@@ -1,4 +1,6 @@
 # Ex. No. 6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### Name: K S Vinay Suhirthan
+### Register Number: 212224230305
 
 ## DATE: 30-05-2026
 
@@ -48,8 +50,7 @@
 ![Screenshot 2024-10-26 105840](https://github.com/user-attachments/assets/77854511-846b-454b-8645-825982d69f1b)
 
 
-### Name: KABELAN G K
-### Register Number: 21222110027
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
